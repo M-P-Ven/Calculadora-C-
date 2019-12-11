@@ -1,0 +1,11 @@
+D:\MPVen-PC\Documents\programaçao\C#\calculadora\obj\Debug\netcoreapp3.1\calculadora.csprojAssemblyReference.cache
+D:\MPVen-PC\Documents\programaçao\C#\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfoInputs.cache
+D:\MPVen-PC\Documents\programaçao\C#\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfo.cs
+D:\MPVen-PC\Documents\programaçao\C#\calculadora\bin\Debug\netcoreapp3.1\calculadora.exe
+D:\MPVen-PC\Documents\programaçao\C#\calculadora\bin\Debug\netcoreapp3.1\calculadora.deps.json
+D:\MPVen-PC\Documents\programaçao\C#\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.json
+D:\MPVen-PC\Documents\programaçao\C#\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.dev.json
+D:\MPVen-PC\Documents\programaçao\C#\calculadora\bin\Debug\netcoreapp3.1\calculadora.dll
+D:\MPVen-PC\Documents\programaçao\C#\calculadora\bin\Debug\netcoreapp3.1\calculadora.pdb
+D:\MPVen-PC\Documents\programaçao\C#\calculadora\obj\Debug\netcoreapp3.1\calculadora.dll
+D:\MPVen-PC\Documents\programaçao\C#\calculadora\obj\Debug\netcoreapp3.1\calculadora.pdb
